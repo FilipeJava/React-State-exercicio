@@ -5,7 +5,7 @@ export default function App(){
     return(
 
         <div>
-            <p>Filipe</p>
+          <h1>Filipe</h1>
         </div>
 
     )
